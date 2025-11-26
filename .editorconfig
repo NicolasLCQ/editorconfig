@@ -564,4 +564,5 @@ resharper_csharp_space_before_nullable_mark = false
 resharper_csharp_space_around_alias_eq = true
 resharper_csharp_space_before_trailing_comment = true
 resharper_csharp_space_after_operator_keyword = true
+
 resharper_csharp_space_within_slice_pattern = false
